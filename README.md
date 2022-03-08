@@ -1,6 +1,6 @@
 # counter_app_cubit
 
-A new Flutter project.
+I'm learning Flutter. I made a counter app with Cubit. 
 
 ## Getting Started
 
